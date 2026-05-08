@@ -1,0 +1,411 @@
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(2): Expected device instantiation or directive here.
+"LTspice"
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(3): Expected device instantiation or directive here.
+1
+^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(4): Expected device instantiation or directive here.
+0
+^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(5): Expected device instantiation or directive here.
+0
+^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(6): Expected device instantiation or directive here.
+""
+^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(7): Expected device instantiation or directive here.
+""
+^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(8): Expected device instantiation or directive here.
+""
+^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(9): Expected device instantiation or directive here.
+"Part IDs Table"
+^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(10): Expected device instantiation or directive here.
+"VIN" "SINE(0 1.08 58.4k)" ""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(11): Expected device instantiation or directive here.
+"V2" "3" ""
+^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(12): Expected device instantiation or directive here.
+"V3" "-3" ""
+^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(13): Expected device instantiation or directive here.
+"V1" "0" ""
+^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(14): Expected device instantiation or directive here.
+"R:STAGE1:1" "47k" ""
+^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(15): Expected device instantiation or directive here.
+"C:STAGE1:1" "160p" ""
+^^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(16): Expected device instantiation or directive here.
+"R:STAGE1:5" "100k" ""
+^^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(17): Expected device instantiation or directive here.
+"C:STAGE1:2" "160p" ""
+^^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(18): Expected device instantiation or directive here.
+"R:STAGE1:2" "1k" ""
+^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(19): Expected device instantiation or directive here.
+"R:STAGE1:4" "9.1k" ""
+^^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(20): Expected device instantiation or directive here.
+"R:STAGE1:3" "110" ""
+^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(21): Expected device instantiation or directive here.
+"U:STAGE1:1" "ADA4084-2" ""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(22): Expected device instantiation or directive here.
+"R:STAGE2:1" "43k" ""
+^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(23): Expected device instantiation or directive here.
+"C:STAGE2:1" "200p" ""
+^^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(24): Expected device instantiation or directive here.
+"R:STAGE2:5" "100k" ""
+^^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(25): Expected device instantiation or directive here.
+"C:STAGE2:2" "200p" ""
+^^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(26): Expected device instantiation or directive here.
+"R:STAGE2:2" "1k" ""
+^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(27): Expected device instantiation or directive here.
+"R:STAGE2:4" "10k" ""
+^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(28): Expected device instantiation or directive here.
+"R:STAGE2:3" "120" ""
+^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(29): Expected device instantiation or directive here.
+"U:STAGE2:1" "ADA4084-2" ""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(30): Expected device instantiation or directive here.
+"R:STAGE3:1" "47k" ""
+^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(31): Expected device instantiation or directive here.
+"C:STAGE3:1" "160p" ""
+^^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(32): Expected device instantiation or directive here.
+"R:STAGE3:5" "100k" ""
+^^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(33): Expected device instantiation or directive here.
+"C:STAGE3:2" "160p" ""
+^^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(34): Expected device instantiation or directive here.
+"R:STAGE3:2" "1.1k" ""
+^^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(35): Expected device instantiation or directive here.
+"U:STAGE3:1" "ADA4084-2" ""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(36): Expected device instantiation or directive here.
+"R:STAGE4:1" "47k" ""
+^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(37): Expected device instantiation or directive here.
+"C:STAGE4:1" "180p" ""
+^^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(38): Expected device instantiation or directive here.
+"R:STAGE4:5" "100k" ""
+^^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(39): Expected device instantiation or directive here.
+"C:STAGE4:2" "180p" ""
+^^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(40): Expected device instantiation or directive here.
+"R:STAGE4:2" "1.1k" ""
+^^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(41): Expected device instantiation or directive here.
+"U:STAGE4:1" "ADA4084-2" ""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(43): Expected device instantiation or directive here.
+"Net Names Table"
+^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(44): Expected device instantiation or directive here.
+"IN" 1
+^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(45): Expected device instantiation or directive here.
+"0" 3
+^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(46): Expected device instantiation or directive here.
+"Vp" 7
+^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(47): Expected device instantiation or directive here.
+"Vn" 12
+^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(48): Expected device instantiation or directive here.
+"Vref" 17
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(49): Expected device instantiation or directive here.
+"STAGE1:N001" 26
+^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(50): Expected device instantiation or directive here.
+"OUT1" 30
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(51): Expected device instantiation or directive here.
+"STAGE1:N002" 35
+^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(52): Expected device instantiation or directive here.
+"STAGE1:N003" 38
+^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(53): Expected device instantiation or directive here.
+"STAGE2:N001" 41
+^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(54): Expected device instantiation or directive here.
+"OUT2" 45
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(55): Expected device instantiation or directive here.
+"STAGE2:N002" 50
+^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(56): Expected device instantiation or directive here.
+"STAGE2:N003" 53
+^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(57): Expected device instantiation or directive here.
+"STAGE3:N001" 56
+^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(58): Expected device instantiation or directive here.
+"OUT3" 60
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(59): Expected device instantiation or directive here.
+"STAGE3:N002" 64
+^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(60): Expected device instantiation or directive here.
+"STAGE4:N001" 67
+^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(61): Expected device instantiation or directive here.
+"OUT" 71
+^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(62): Expected device instantiation or directive here.
+"STAGE4:N002" 74
+^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(64): Expected device instantiation or directive here.
+"Net Connections Table"
+^^^^^^^^^^^^^^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(65): Expected device instantiation or directive here.
+1 1 1 2
+^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(66): Expected device instantiation or directive here.
+1 5 2 0
+^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(67): Expected device instantiation or directive here.
+2 1 2 4
+^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(68): Expected device instantiation or directive here.
+2 2 2 5
+^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(69): Expected device instantiation or directive here.
+2 3 2 6
+^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(70): Expected device instantiation or directive here.
+2 4 2 0
+^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(71): Expected device instantiation or directive here.
+3 2 1 8
+^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(72): Expected device instantiation or directive here.
+3 12 3 9
+^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(73): Expected device instantiation or directive here.
+3 20 3 10
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(74): Expected device instantiation or directive here.
+3 26 3 11
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(75): Expected device instantiation or directive here.
+3 32 3 0
+^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(76): Expected device instantiation or directive here.
+4 3 1 13
+^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(77): Expected device instantiation or directive here.
+4 12 4 14
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(78): Expected device instantiation or directive here.
+4 20 4 15
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(79): Expected device instantiation or directive here.
+4 26 4 16
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(80): Expected device instantiation or directive here.
+4 32 4 0
+^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(81): Expected device instantiation or directive here.
+5 4 1 18
+^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(82): Expected device instantiation or directive here.
+5 9 2 19
+^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(83): Expected device instantiation or directive here.
+5 11 2 20
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(84): Expected device instantiation or directive here.
+5 17 2 21
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(85): Expected device instantiation or directive here.
+5 19 2 22
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(86): Expected device instantiation or directive here.
+5 25 2 23
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(87): Expected device instantiation or directive here.
+5 26 1 24
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(88): Expected device instantiation or directive here.
+5 31 2 25
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(89): Expected device instantiation or directive here.
+5 32 1 0
+^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(90): Expected device instantiation or directive here.
+6 5 1 27
+^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(91): Expected device instantiation or directive here.
+6 6 2 28
+^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(92): Expected device instantiation or directive here.
+6 8 2 29
+^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(93): Expected device instantiation or directive here.
+6 9 1 0
+^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(94): Expected device instantiation or directive here.
+7 6 1 31
+^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(95): Expected device instantiation or directive here.
+7 7 1 32
+^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(96): Expected device instantiation or directive here.
+7 10 1 33
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(97): Expected device instantiation or directive here.
+7 12 5 34
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(98): Expected device instantiation or directive here.
+7 13 2 0
+^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(99): Expected device instantiation or directive here.
+8 7 2 36
+^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(100): Expected device instantiation or directive here.
+8 8 1 37
+^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(101): Expected device instantiation or directive here.
+8 12 2 0
+^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(102): Expected device instantiation or directive here.
+9 10 2 39
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(103): Expected device instantiation or directive here.
+9 11 1 40
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(104): Expected device instantiation or directive here.
+9 12 1 0
+^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(105): Expected device instantiation or directive here.
+10 13 1 42
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(106): Expected device instantiation or directive here.
+10 14 2 43
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(107): Expected device instantiation or directive here.
+10 16 2 44
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(108): Expected device instantiation or directive here.
+10 17 1 0
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(109): Expected device instantiation or directive here.
+11 14 1 46
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(110): Expected device instantiation or directive here.
+11 15 1 47
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(111): Expected device instantiation or directive here.
+11 18 1 48
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(112): Expected device instantiation or directive here.
+11 20 5 49
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(113): Expected device instantiation or directive here.
+11 21 2 0
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(114): Expected device instantiation or directive here.
+12 15 2 51
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(115): Expected device instantiation or directive here.
+12 16 1 52
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(116): Expected device instantiation or directive here.
+12 20 2 0
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(117): Expected device instantiation or directive here.
+13 18 2 54
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(118): Expected device instantiation or directive here.
+13 19 1 55
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(119): Expected device instantiation or directive here.
+13 20 1 0
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(120): Expected device instantiation or directive here.
+14 21 1 57
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(121): Expected device instantiation or directive here.
+14 22 2 58
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(122): Expected device instantiation or directive here.
+14 24 2 59
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(123): Expected device instantiation or directive here.
+14 25 1 0
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(124): Expected device instantiation or directive here.
+15 22 1 61
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(125): Expected device instantiation or directive here.
+15 23 1 62
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(126): Expected device instantiation or directive here.
+15 26 5 63
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(127): Expected device instantiation or directive here.
+15 27 2 0
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(128): Expected device instantiation or directive here.
+16 23 2 65
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(129): Expected device instantiation or directive here.
+16 24 1 66
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(130): Expected device instantiation or directive here.
+16 26 2 0
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(131): Expected device instantiation or directive here.
+17 27 1 68
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(132): Expected device instantiation or directive here.
+17 28 2 69
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(133): Expected device instantiation or directive here.
+17 30 2 70
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(134): Expected device instantiation or directive here.
+17 31 1 0
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(135): Expected device instantiation or directive here.
+18 28 1 72
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(136): Expected device instantiation or directive here.
+18 29 1 73
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(137): Expected device instantiation or directive here.
+18 32 5 0
+^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(138): Expected device instantiation or directive here.
+19 29 2 75
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(139): Expected device instantiation or directive here.
+19 30 1 76
+^^^^^^^^^^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\ACAnalysis1.net(140): Expected device instantiation or directive here.
+19 32 2 0
+^^^^^^^^^

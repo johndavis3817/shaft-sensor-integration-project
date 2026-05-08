@@ -1,0 +1,27 @@
+LTspice 26.0.1 for Windows
+Circuit: Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\peak_detector_analysis.net
+Start Time: Sat May  9 00:05:30 2026
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\peak_detector_analysis.net(12): This pin name equals one of the port names of the sub-circuit, but at a different position. This is not a problem, but note that as a result none of the pin names may be used by any .meas expressions.
+X§U3 N001 N005 BAS516 ;§pnba 2)1
+                             ^
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\peak_detector_analysis.net(13): This pin name equals one of the port names of the sub-circuit, but at a different position. This is not a problem, but note that as a result none of the pin names may be used by any .meas expressions.
+X§U4 N005 N002 BAS516 ;§pnba 2)1
+                             ^
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.357 seconds.
+
+Files loaded:
+Z:\home\user\upwork\ae-sensor\DesignFiles\SPICE Files\LTspice\peak_detector_analysis.net
+C:\users\user\AppData\Local\LTspice\lib\sub\AD8310.lib
+C:\users\user\AppData\Local\LTspice\lib\sub\Contrib\Toshiba\DIODE\BAS516_enc.lib
+C:\users\user\AppData\Local\LTspice\lib\sub\LTC4.lib
+C:\users\user\AppData\Local\LTspice\lib\sub\UniversalOpAmp2.lib
+

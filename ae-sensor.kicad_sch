@@ -1539,6 +1539,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text ".options ngbehavior=ltpsa"
+		(exclude_from_sim no)
+		(at 60.96 109.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "23e48520-f096-4418-a9e6-557e8bc442c7")
+	)
 	(junction
 		(at 148.59 76.2)
 		(diameter 0)
@@ -4803,7 +4813,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3v3"
+		(property "Value" "1.5v"
 			(at 41.91 27.8101 0)
 			(effects
 				(font
@@ -5998,7 +6008,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3v3"
+		(property "Value" "1.5v"
 			(at 27.94 26.5401 0)
 			(effects
 				(font
