@@ -1,0 +1,18 @@
+LTspice 26.0.1 for Windows
+Circuit: Z:\home\user\upwork\ae-sensor\ae-sensor\LTspice\sensor_preamp.net
+Start Time: Mon May 11 01:28:17 2026
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.110 seconds.
+
+Files loaded:
+Z:\home\user\upwork\ae-sensor\ae-sensor\LTspice\sensor_preamp.net
+C:\users\user\AppData\Local\LTspice\lib\sub\LTC4.lib
+
