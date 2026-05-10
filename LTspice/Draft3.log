@@ -1,19 +1,28 @@
 LTspice 26.0.1 for Windows
 Circuit: Z:\home\user\upwork\ae-sensor\ae-sensor\LTspice\Draft3.net
-Start Time: Sat May  9 01:28:15 2026
+Start Time: Sun May 10 12:31:59 2026
 solver = Normal
 Maximum thread count: 4
 tnom = 27
 temp = 27
 method = trap
+WARNING: Node u1:n005 is floating.
+
+Instance "u3:M5": Length shorter than recommended for a level 2 MOSFET.
+Instance "u3:M6": Length shorter than recommended for a level 2 MOSFET.
+Instance "u3:M1": Length shorter than recommended for a level 2 MOSFET.
+Instance "u3:M2": Length shorter than recommended for a level 2 MOSFET.
+Instance "u3:M3": Length shorter than recommended for a level 2 MOSFET.
+Instance "u3:M4": Length shorter than recommended for a level 2 MOSFET.
 Direct Newton iteration failed to find operating point.
 Starting Gmin stepping
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.324 seconds.
+Total elapsed time: 0.162 seconds.
 
 Files loaded:
 Z:\home\user\upwork\ae-sensor\ae-sensor\LTspice\Draft3.net
-C:\users\user\AppData\Local\LTspice\lib\sub\Contrib\Toshiba\DIODE\TBAT54_enc.lib
+C:\users\user\AppData\Local\LTspice\lib\sub\ADI.lib
+C:\users\user\AppData\Local\LTspice\lib\sub\Contrib\Toshiba\DIODE\TBAT54S_enc.lib
 C:\users\user\AppData\Local\LTspice\lib\sub\LTC4.lib
 
