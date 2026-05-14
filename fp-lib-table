@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ae_sensor_parts")(type "KiCad")(uri "${KIPRJMOD}/ae_sensor_parts.pretty")(options "")(descr ""))
+)
