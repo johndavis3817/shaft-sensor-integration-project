@@ -1,0 +1,15 @@
+LTspice 26.0.1 for Windows
+Circuit: Z:\home\user\upwork\ae-sensor\ae-sensor\knock_sensor_simulation\filter.net
+Start Time: Thu May 14 19:09:50 2026
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.380 seconds.
+
+Files loaded:
+Z:\home\user\upwork\ae-sensor\ae-sensor\knock_sensor_simulation\filter.net
+C:\users\user\AppData\Local\LTspice\lib\sub\AD8542.sub
+
